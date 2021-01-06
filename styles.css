@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-body {
+
+#trythemes {
+    font-family:Georgia, 'Times New Roman', Times, serif;
     display: flex;
     flex-direction: column;
     background-color: #dfb9b9;
@@ -12,12 +14,12 @@ body {
     padding: 1rem;
 }       
 
-body p {
+#trythemes p {
     font-size: 1.1rem;
     font-weight: 600;
 }
 
-body label {
+#trythemes label {
     margin-top: 0.5rem;
     font-size: 1rem;
     font-weight: 500;
